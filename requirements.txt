@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+nltk
+spacy
+gensim
+hmmlearn
+matplotlib
+plotly
+wordcloud
+streamlit
+transformers
+torch
+vaderSentiment
+joblib
+datasets
+accelerate

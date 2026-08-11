@@ -1,0 +1,70 @@
+POS Tagging and Workplace Language Analysis Summary
+============================================================
+
+Total feedback records analyzed: 997
+
+Top POS Tags:
+  - NOUN     10698
+  - VERB     6300
+  - ADJ      4091
+  - PROPN    1958
+  - ADV      1314
+  - ADP      43
+  - SCONJ    27
+  - AUX      23
+  - PART     14
+  - PRON     5
+
+Top Opinion Words (Adjectives/Adverbs):
+  - good                 274
+  - great                223
+  - high                 151
+  - well                 117
+  - able                 112
+  - hard                 104
+  - consistently         94
+  - new                  91
+  - little               74
+  - solid                70
+  - far                  61
+  - late                 59
+  - consistent           58
+  - long                 57
+  - average              57
+
+Top Action Verbs:
+  - work                 304
+  - show                 288
+  - improve              259
+  - need                 226
+  - complete             144
+  - continue             106
+  - learn                106
+  - believe              102
+  - perform              100
+  - take                 96
+  - meet                 93
+  - give                 84
+  - think                81
+  - ask                  70
+  - come                 67
+
+Top Workplace Terms / Concerns:
+  - quality                        243
+  - worker                         227
+  - project                        220
+  - future                         192
+  - improvement                    156
+  - member                         154
+  - quarter                        143
+  - report                         133
+  - level                          127
+  - colleague                      124
+  - lot                            122
+  - effort                         118
+  - assignment                     118
+  - client                         106
+  - room                           105
+
+How this satisfies the assignment:
+POS tagging identifies opinion words, action verbs, workplace issues, and employee concerns from manager feedback.

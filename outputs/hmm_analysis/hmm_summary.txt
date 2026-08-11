@@ -1,0 +1,36 @@
+WorkSense AI - HMM Sequence Tagging Summary
+=======================================================
+
+Purpose:
+This module implements a Hidden Markov Model for token-level sequence tagging
+of employee feedback. It estimates start, transition, and emission probabilities
+and applies Viterbi decoding to identify positive, negative, growth, risk, and
+neutral feedback signals.
+
+Dataset rows analyzed: 997
+Training sequences created: 997
+Hidden states: POSITIVE_SIGNAL, NEGATIVE_SIGNAL, GROWTH_SIGNAL, RISK_SIGNAL, NEUTRAL_CONTEXT
+
+Sample token-level state distribution:
+- NEUTRAL_CONTEXT: 2331
+- NEGATIVE_SIGNAL: 41
+- GROWTH_SIGNAL: 29
+- POSITIVE_SIGNAL: 26
+- RISK_SIGNAL: 22
+
+Dominant sequence-level signals in sample:
+- Neutral Context: 40
+
+Generated Files:
+- outputs\hmm_analysis\hmm_token_tags_sample.csv
+- outputs\hmm_analysis\hmm_sequence_predictions.csv
+- outputs\hmm_analysis\hmm_transition_matrix.csv
+- outputs\hmm_analysis\hmm_top_emission_words.csv
+- outputs\hmm_analysis\hmm_state_distribution.png
+- outputs\hmm_analysis\hmm_transition_heatmap.png
+
+How to explain this in viva:
+The feedback text is treated as an observation sequence. The hidden states represent
+latent workplace feedback signals. The HMM learns how these states transition across
+a sentence and which words are likely to be emitted by each state. Viterbi decoding is
+then used to infer the most probable hidden-state sequence for new feedback.

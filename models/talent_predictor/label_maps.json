@@ -1,0 +1,24 @@
+{
+  "label_to_category": {
+    "0": "Category 1: 'Risk' (Low performance, Low potential)",
+    "1": "Category 2: 'Average performer' (Moderate performance, Low potential)",
+    "2": "Category 3: 'Solid Performer' (High performance, Low potential)",
+    "3": "Category 4: 'Inconsistent Player' (Low performance, Moderate potential)",
+    "4": "Category 5: 'Core Player' (Moderate performance, Moderate potential)",
+    "5": "Category 6: 'High Performer' (High performance, Moderate potential)",
+    "6": "Category 7: 'Potential Gem' (Low performance, High potential)",
+    "7": "Category 8: 'High Potential' (Moderate performance, High potential)",
+    "8": "Category 9: 'Star' (High performance, High potential)"
+  },
+  "label_to_short_name": {
+    "0": "Category 1 - Risk",
+    "1": "Category 2 - Average performer",
+    "2": "Category 3 - Solid Performer",
+    "3": "Category 4 - Inconsistent Player",
+    "4": "Category 5 - Core Player",
+    "5": "Category 6 - High Performer",
+    "6": "Category 7 - Potential Gem",
+    "7": "Category 8 - High Potential",
+    "8": "Category 9 - Star"
+  }
+}

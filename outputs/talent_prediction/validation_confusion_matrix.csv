@@ -1,0 +1,10 @@
+,Category 1 - Risk,Category 2 - Average performer,Category 3 - Solid Performer,Category 4 - Inconsistent Player,Category 5 - Core Player,Category 6 - High Performer,Category 7 - Potential Gem,Category 8 - High Potential,Category 9 - Star
+Category 1 - Risk,13,1,0,2,1,0,0,0,0
+Category 2 - Average performer,2,4,0,2,5,0,0,0,0
+Category 3 - Solid Performer,0,1,6,0,0,1,0,0,4
+Category 4 - Inconsistent Player,2,3,0,8,0,0,1,0,0
+Category 5 - Core Player,0,1,2,4,6,1,0,2,0
+Category 6 - High Performer,0,0,1,0,3,4,1,1,2
+Category 7 - Potential Gem,2,0,0,1,0,1,1,0,0
+Category 8 - High Potential,2,1,0,1,3,1,0,2,1
+Category 9 - Star,0,0,2,0,1,1,0,2,10

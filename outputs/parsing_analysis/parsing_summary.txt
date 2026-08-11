@@ -1,0 +1,59 @@
+Phase 6: Dependency Parsing + Relationship Extraction Summary
+=================================================================
+
+Input file: C:\Self Learn\Projects\WorkSenseAIwithStreamlit\data\processed\combined_assignment_classified.csv
+Parsed feedback rows: 250
+Total dependency relationships extracted: 3595
+Workplace concern/target pairs extracted: 600
+
+Top relationship types:
+- verb_subject: 1216
+- verb_object: 928
+- adjective_modifies_noun: 842
+- verb_preposition_in: 122
+- verb_preposition_with: 91
+- verb_preposition_on: 85
+- verb_preposition_to: 77
+- verb_preposition_at: 43
+- verb_preposition_for: 37
+- verb_preposition_from: 25
+
+Top workplace targets:
+- work: 70
+- team: 25
+- performance: 19
+- tasks: 15
+- potential: 13
+- good work: 12
+- deadlines: 10
+- projects: 9
+- low potential: 9
+- much potential: 8
+- quality: 8
+- new tasks: 8
+- high performance: 8
+- task: 7
+- goals: 7
+
+Top opinion/action terms:
+- have: 26
+- show: 23
+- complete: 21
+- meet: 19
+- produce: 15
+- put: 14
+- improve: 14
+- turn: 14
+- high: 12
+- do: 11
+- good: 11
+- work: 10
+- take: 9
+- low: 9
+- see: 8
+
+Example output format:
+poor -> communication
+strong -> leadership
+miss -> deadlines
+improve -> performance

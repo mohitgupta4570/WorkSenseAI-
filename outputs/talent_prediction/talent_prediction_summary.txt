@@ -1,0 +1,40 @@
+WorkSense AI - Phase 8 Talent Prediction Summary
+============================================================
+
+Task: Predict the original Nine-Box HR talent category from employee feedback text.
+Model: TF-IDF bigram features + class-balanced calibrated LinearSVC.
+Why this model: Strong, fast, interpretable, and reliable for small text datasets.
+
+Nine-Box Categories:
+  0: Category 1: 'Risk' (Low performance, Low potential)
+  1: Category 2: 'Average performer' (Moderate performance, Low potential)
+  2: Category 3: 'Solid Performer' (High performance, Low potential)
+  3: Category 4: 'Inconsistent Player' (Low performance, Moderate potential)
+  4: Category 5: 'Core Player' (Moderate performance, Moderate potential)
+  5: Category 6: 'High Performer' (High performance, Moderate potential)
+  6: Category 7: 'Potential Gem' (Low performance, High potential)
+  7: Category 8: 'High Potential' (Moderate performance, High potential)
+  8: Category 9: 'Star' (High performance, High potential)
+
+VALIDATION METRICS
+------------------------------
+Accuracy      : 0.4655
+Macro Precision: 0.4378
+Macro Recall   : 0.4288
+Macro F1       : 0.4268
+Weighted F1    : 0.4541
+
+TEST METRICS
+------------------------------
+Accuracy      : 0.3289
+Macro Precision: 0.3325
+Macro Recall   : 0.3289
+Macro F1       : 0.3016
+Weighted F1    : 0.3016
+
+Generated Files:
+  models/talent_predictor/nine_box_talent_predictor.joblib
+  models/talent_predictor/label_maps.json
+  outputs/talent_prediction/*_classification_report.txt
+  outputs/talent_prediction/*_confusion_matrix.png
+  outputs/talent_prediction/talent_prediction_sample_outputs.csv

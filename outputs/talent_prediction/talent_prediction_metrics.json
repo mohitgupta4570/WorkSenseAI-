@@ -1,0 +1,18 @@
+{
+  "validation": {
+    "split": "validation",
+    "accuracy": 0.46551724137931033,
+    "macro_precision": 0.4377888670974326,
+    "macro_recall": 0.42877536406948175,
+    "macro_f1": 0.4268194824640286,
+    "weighted_f1": 0.45408912796962186
+  },
+  "test": {
+    "split": "test",
+    "accuracy": 0.3288888888888889,
+    "macro_precision": 0.3324686707377715,
+    "macro_recall": 0.3288888888888889,
+    "macro_f1": 0.3015890307131147,
+    "weighted_f1": 0.30158903071311466
+  }
+}

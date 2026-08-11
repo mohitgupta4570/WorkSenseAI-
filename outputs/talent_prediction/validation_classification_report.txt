@@ -1,0 +1,15 @@
+                                  precision    recall  f1-score   support
+
+               Category 1 - Risk       0.62      0.76      0.68        17
+  Category 2 - Average performer       0.36      0.31      0.33        13
+    Category 3 - Solid Performer       0.55      0.50      0.52        12
+Category 4 - Inconsistent Player       0.44      0.57      0.50        14
+        Category 5 - Core Player       0.32      0.38      0.34        16
+     Category 6 - High Performer       0.44      0.33      0.38        12
+      Category 7 - Potential Gem       0.33      0.20      0.25         5
+     Category 8 - High Potential       0.29      0.18      0.22        11
+               Category 9 - Star       0.59      0.62      0.61        16
+
+                        accuracy                           0.47       116
+                       macro avg       0.44      0.43      0.43       116
+                    weighted avg       0.45      0.47      0.45       116

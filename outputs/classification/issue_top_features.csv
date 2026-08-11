@@ -1,0 +1,61 @@
+class,rank,feature,weight
+Career Growth,1,potential,-5.810051737980661
+Career Growth,2,improve,-6.134760714407088
+Career Growth,3,work,-6.247720557839196
+Career Growth,4,future,-6.388795724274501
+Career Growth,5,company,-6.404109340138239
+Career Growth,6,time,-6.405250717677971
+Career Growth,7,performance,-6.418243740945533
+Career Growth,8,great,-6.489882781823068
+Career Growth,9,does,-6.5097455138606914
+Career Growth,10,skills,-6.515374795631594
+Career Growth,11,good,-6.532025837181212
+Career Growth,12,shown,-6.557986863088775
+Career Growth,13,worker,-6.601348489093776
+Career Growth,14,tasks,-6.626766260986272
+Career Growth,15,job,-6.786439982521381
+Management Issues,1,feedback,-7.366852294188745
+Management Issues,2,employee,-7.670385742940472
+Management Issues,3,does,-7.689455939961055
+Management Issues,4,guidance,-7.857789769451122
+Management Issues,5,time,-7.905477955115547
+Management Issues,6,performer,-7.91606185806396
+Management Issues,7,riley,-7.961064951949321
+Management Issues,8,ideas,-7.97081858865674
+Management Issues,9,niko,-7.977098191082199
+Management Issues,10,meet,-8.00993915553354
+Management Issues,11,gavyn,-8.035194854635108
+Management Issues,12,expectations,-8.050241454006205
+Management Issues,13,reliable,-8.059073953509152
+Management Issues,14,issues,-8.075316850714891
+Management Issues,15,objectives,-8.105273255005566
+Salary & Benefits,1,benefit,-7.988117808456304
+Salary & Benefits,2,raise,-8.005069702974746
+Salary & Benefits,3,addison,-8.043045843872276
+Salary & Benefits,4,results quarter,-8.139872397024194
+Salary & Benefits,5,days,-8.142018678257203
+Salary & Benefits,6,long,-8.193684665831913
+Salary & Benefits,7,lacey,-8.210262649721164
+Salary & Benefits,8,believe,-8.214453987343875
+Salary & Benefits,9,pick,-8.221574605492457
+Salary & Benefits,10,instruction,-8.227001085366641
+Salary & Benefits,11,immediate raise,-8.253855161227191
+Salary & Benefits,12,completes beautifully,-8.253855161227191
+Salary & Benefits,13,quarter,-8.267658365533096
+Salary & Benefits,14,goal setting,-8.282369451073679
+Salary & Benefits,15,jude,-8.289183862619678
+Work Culture,1,work,-5.371339326937334
+Work Culture,2,team,-5.873991437904677
+Work Culture,3,time,-6.2464891078359575
+Work Culture,4,does,-6.362923439152763
+Work Culture,5,quality,-6.478127931722503
+Work Culture,6,company,-6.549573396981986
+Work Culture,7,performance,-6.621125453673914
+Work Culture,8,great,-6.6667365828802865
+Work Culture,9,good,-6.687475437974188
+Work Culture,10,worker,-6.699429191779761
+Work Culture,11,tasks,-6.782364358115451
+Work Culture,12,job,-6.810561481359249
+Work Culture,13,needs,-6.887363442095465
+Work Culture,14,late,-6.912771327244618
+Work Culture,15,better,-6.9362310497682556

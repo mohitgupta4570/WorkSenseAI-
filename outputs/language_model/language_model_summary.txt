@@ -1,0 +1,35 @@
+LSTM Neural Language Model Summary
+=================================
+
+Purpose:
+The model learns workplace-feedback language patterns and predicts the next contextual word in employee feedback sentences.
+
+Model Type: LSTM Neural Language Model
+Training Text Column: feedback_clean
+Sequence Length: 5 words
+Vocabulary Size: 1200
+Training Sequences: 1200
+Validation Sequences: 400
+Embedding Dimension: 32
+Hidden Dimension: 48
+Epochs: 3
+Device Used: cuda
+
+Final Metrics:
+Train Loss: 5.7482
+Validation Loss: 5.7871
+Validation Accuracy: 0.0800
+Validation Perplexity: 326.0522
+
+Generated Files:
+- models/lstm_lm/lstm_neural_language_model.pt
+- models/lstm_lm/lstm_lm_checkpoint.pt
+- models/lstm_lm/lstm_lm_vocab.json
+- outputs/language_model/lstm_lm_training_history.csv
+- outputs/language_model/lstm_lm_training_loss.png
+- outputs/language_model/lstm_lm_validation_perplexity.png
+- outputs/language_model/next_word_prediction_examples.csv
+- outputs/language_model/language_model_top_vocabulary.csv
+
+Assignment Mapping:
+This satisfies the Neural Language Model requirement by predicting contextual words from employee feedback language patterns.

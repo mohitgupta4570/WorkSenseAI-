@@ -1,0 +1,18 @@
+WorkSense AI - Dataset Summary
+===================================
+total_reviews: 997
+total_categories: 9
+avg_feedback_length: 328.24
+avg_sentences_per_feedback: 4.19
+
+Category Distribution:
+category_name
+Category 1: Risk                   139
+Category 2: Average Performer      110
+Category 3: Solid Performer        107
+Category 4: Inconsistent Player    119
+Category 5: Core Player            129
+Category 6: High Performer         103
+Category 7: Potential Gem           61
+Category 8: High Potential         101
+Category 9: Star                   128
